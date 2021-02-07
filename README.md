@@ -11,10 +11,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cristianrcv/personal-website/blob/master/LICENSE.md)
 
 
-Cristian Ramon-Cortes Vilarrodona Personal Website
+Ravindra Raut Personal Website
 =============================
 
-[Live Website](https://cristianrcv.netlify.com)
+[Live Website](https://ravindra-raut2.netlify.app/)
 
 
 A personal website using Academic, Hugo, and Netlify.
