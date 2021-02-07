@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "COMPSs"
-    tag = "compss"
+    name = "SBDB"
+    tag = "sbdb"
   
   [[content.filter_button]]
-    name = "PyCOMPSs"
-    tag = "pycompss"
+    name = "A-Plants"
+    tag = "a-plants"
+  
+  [[content.filter_button]]
+    name = "Peroxidase"
+    tag = "peroxidase"
   
   [[content.filter_button]]
     name = "Other"
