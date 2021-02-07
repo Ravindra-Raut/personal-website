@@ -92,7 +92,7 @@ phone = "+91 700 190 2565"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Bengaluru", region = "Karnataka", postcode = "560064", country = "India", country_code = "IN"}
+address = {street = "", city = "Bengaluru", region = "Karnataka, India", postcode = "560064", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
