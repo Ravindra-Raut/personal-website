@@ -18,72 +18,58 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Software Engineer"
-  company = "Dynatrace"
-  company_url = "http://dynatrace.es"
-  location = "Spain"
-  date_start = "2020-10-13"
-  date_end = ""
-  description = """Senior Software Engineer at Dynatrace.
-  """
+  title = "Assistant Research Co-ordinator"
+  company = "The University of Trans-Disciplinary Health Sciences and Technology (TDU) Bengaluru"
+  company_url = "http://tdu.edu.in/"
+  location = ""
+  date_start = "2019-04-11"
+  date_end = "2019-09-11"
+  description = """Supervised graduate and undergraduate students working on research projects on transposable element analysis in rice genome.
   
+  Responsibilities include:
+  * Planned and executed research techniques, procedures and tests
+  * Mentoring 
+  * Research
+  """
+
 [[experience]]
-  title = "PhD Student"
-  company = "Barcelona Supercomputing Center (BSC)"
-  company_url = "https://www.bsc.es"
-  location = "Spain"
-  date_start = "2017-05-01"
-  date_end = "2020-10-09"
-  description = """PhD Student for the Computer Architecture Department (DAC - UPC) working in collaboration with the Workflows and Distributed Computing group (WDC) at the Barcelona Supercomputing Center (BSC). The thesis was entitled: Programming Models to support Data Science Workflows.
+  title = "Teaching Assistant"
+  company = "National Institute of Technology Durgapur"
+  company_url = "https://www.nitdgp.ac.in/"
+  location = ""
+  date_start = "2016-02-14"
+  date_end = "2019-04-14"
+  description = """I assisted with the Bioinformatics Laboratory course to MTech Students. Prepared lessons according to course outline to convey all required material and deepen students' understanding for subject matter. I have overseen a class of 25 students for four years.
   Responsibilities include:
   
-  * Orchestration of data science workflows
-  * Automatic parallelization of affine loops in Python
-  * Distributed execution of Hybrid Flows composed of Data Flows and Task Flows
-  * Integration of Streaming standards and technologies inside COMPSs
+  * Teaching 
+  * Mentoring 
+  * Exam, Assingments and course evaluation
   """
   
-[[experience]]
-  title = "Junior Developer"
-  company = "Barcelona Supercomputing Center (BSC)"
-  company_url = "https://www.bsc.es"
-  location = "Spain"
-  date_start = "2016-02-01"
-  date_end = "2017-05-01"
-  description = """Junior Developer at the Workflows and Distributed Computing (WDC) group at the Barcelona Supercomputing Center (BSC). 
-  My main tasks involved:
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "The University of Trans-Disciplinary Health Sciences and Technology (TDU) Bengaluru"
+  company_url = "http://tdu.edu.in/"
+  location = ""
+  date_start = "2017-02-11"
+  date_end = "2017-06-11"
+  description = """Assisted for Ecology and Evolution course to MSc Students for chapters Introduction to Bioinformatics and transposons.
   
-  * Enhancement of the COMPSs infrastucture and deployment
-  * Design and implement several features inside the COMPSs Runtime
+  Responsibilities include:
+  * Teaching 
+  * Mentoring 
+  * Exam and Assingments evaluation
   """
   
-[[experience]]
-  title = "Resident Student"
-  company = "Barcelona Supercomputing Center (BSC)"
-  company_url = "https://www.bsc.es"
-  location = "Spain"
-  date_start = "2014-04-01"
-  date_end = "2016-02-01"
-  description = """Resident Student at the Grid Computing group at the Barcelona Supercomputing Center (BSC). 
-  My main tasks involved:
-  
-  * Build a testing infrastructure for COMPSs
-  * Re-design the COMPSs Monitor
-  """
-  
-[[experience]]
-  title = "Teacher in a Student Advise Service"
-  company = "Academia SOL"
-  company_url = "http://www.academiasol.com/"
-  location = "Spain"
-  date_start = "2011-09-01"
-  date_end = "2013-12-01"
-  description = """Teacher of Bachelor and Master of Engineering students at the Academia SOL. The goal was to provide academic review and reinforcement in a simpler and closer way than the university professors. 
-  Taught subjects:
-  
-  * ETSEIB: Heat Transfer, Informatics 1, Informatics 2
-  * EUETIB: Informatics
-  * FIB: Mathematics 2, Theory of Computation, Programming II
+  [[experience]]
+  title = "Intern"
+  company = "Bio Egicore, Lucknow"
+  company_url = ""
+  location = ""
+  date_start = "2014-08-11"
+  date_end = "2014-11-11"
+  description = """Developed and released database on Ayurvedic Plant Database with its Medicinal Applications, A-plants 1.0: (Home remedies by our grand’s).
   """
   
 +++
