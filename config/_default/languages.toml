@@ -11,43 +11,43 @@
 #[ca]
   languageCode = "ca-ca"
   contentDir = "content/ca"
-  [ca.params]
-    [[ca.menu.main]]
+  #[ca.params]
+    #[[ca.menu.main]]
       name = "Home"
       url = "#00_about"
       weight = 1
 
-    [[ca.menu.main]]
+   # [[ca.menu.main]]
       name = "Experiència"
       url = "#02_experience"
       weight = 2
 
-    [[ca.menu.main]]
+    #[[ca.menu.main]]
       name = "Projectes"
       url = "project/"
       weight = 3
 
-    [[ca.menu.main]]
+    #[[ca.menu.main]]
       name = "Publicacions"
       url = "publication/"
       weight = 4
 
-    [[ca.menu.main]]
+   # [[ca.menu.main]]
       name = "Xerrades"
       url = "talk/"
       weight = 5
 
-    [[ca.menu.main]]
+    #[[ca.menu.main]]
       name = "Aficions"
       url = "#06_hobbies"
       weight = 6
 
-    [[ca.menu.main]]
+  #  [[ca.menu.main]]
       name = "Posts"
       url = "post/"
       weight = 7
 
-    [[ca.menu.main]]
+    #[[ca.menu.main]]
       name = "Contacte"
       url = "#99_contact"
       weight = 8
@@ -56,43 +56,43 @@
 #[es]
   languageCode = "es-es"
   contentDir = "content/es"
-  [es.params]
+#  [es.params]
     [[es.menu.main]]
       name = "Home"
       url = "#00_about"
       weight = 1
 
-    [[es.menu.main]]
+   # [[es.menu.main]]
       name = "Experiencia"
       url = "#02_experience"
       weight = 2
 
-    [[es.menu.main]]
+  #  [[es.menu.main]]
       name = "Proyectos"
       url = "project/"
       weight = 3
 
-    [[es.menu.main]]
+  #  [[es.menu.main]]
       name = "Publicaciones"
       url = "publication/"
       weight = 4
 
-    [[es.menu.main]]
+  #  [[es.menu.main]]
       name = "Charlas"
       url = "talk/"
       weight = 5
 
-    [[es.menu.main]]
+  #  [[es.menu.main]]
       name = "Aficiones"
       url = "#06_hobbies"
       weight = 6
 
-    [[es.menu.main]]
+ #   [[es.menu.main]]
       name = "Posts"
       url = "post/"
       weight = 7
 
-    [[es.menu.main]]
+   # [[es.menu.main]]
       name = "Contacto"
       url = "#99_contact"
       weight = 8
@@ -101,43 +101,43 @@
 #[fr]
   languageCode = "fr-fr"
   contentDir = "content/fr"
-  [fr.params]
-    [[fr.menu.main]]
+ # [fr.params]
+  #  [[fr.menu.main]]
       name = "Home"
       url = "#00_about"
       weight = 1
 
-    [[fr.menu.main]]
+   # [[fr.menu.main]]
       name = "Experiences Professionnelles"
       url = "#02_experience"
       weight = 2
 
-    [[fr.menu.main]]
+   # [[fr.menu.main]]
       name = "Projets"
       url = "project/"
       weight = 3
 
-    [[fr.menu.main]]
+  #  [[fr.menu.main]]
       name = "Publications"
       url = "publication/"
       weight = 4
 
-    [[fr.menu.main]]
+   # [[fr.menu.main]]
       name = "Talks"
       url = "talk/"
       weight = 5
 
-    [[fr.menu.main]]
+ #   [[fr.menu.main]]
       name = "Loisirs"
       url = "#06_hobbies"
       weight = 6
 
-    [[fr.menu.main]]
+ #   [[fr.menu.main]]
       name = "Posts"
       url = "post/"
       weight = 7
 
-    [[fr.menu.main]]
+  #  [[fr.menu.main]]
       name = "Contact"
       url = "#99_contact"
       weight = 8
