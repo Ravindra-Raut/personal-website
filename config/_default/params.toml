@@ -92,7 +92,7 @@ phone = "+91 700 190 2565"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Bengalore", region = "Karnataka", postcode = "560064", country = "India", country_code = "IND"}
+address = {street = "", city = "Bengaluru", region = "Karnataka", postcode = "560064", country = "India", country_code = "IND"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -111,8 +111,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Direct Message on GMail", link = "mailto: raviraut206@gmail.com"},
-  {icon = "twitter", icon_pack = "fab", name = "Message Me on Twitter", link = "https://twitter.com/Ravindra__Raut"},
+  {icon = "envelope", icon_pack = "fas", name = "send a email", link = "mailto: raviraut206@gmail.com"},
+  {icon = "twitter", icon_pack = "fab", name = "Message me on Twitter", link = "https://twitter.com/Ravindra__Raut"},
    {icon = "slack", icon_pack = "fab", name = "stay connected on Slack", link = "https://app.slack.com/client/TG7HJ1KDJ/CG7UZ382H/user_profile/UGA72026P"}
   #{icon = "comments", icon_pack = "fas", name = "Discuss", link = "https://discourse.gohugo.io"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
