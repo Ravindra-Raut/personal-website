@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Cristián Ramón-Cortés Vilarrodona"
+name: "Ravindra Raut"
 
 # Username (this should match the folder name)
 authors:
@@ -10,46 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Dynatrace
-  url: http://dynatrace.es/
-#- name: Barcelona Supercomputing Center
-#  url: "https://www.bsc.es/"
-#- name: Polytechnical University of Catalonia (UPC)
-#  url: "https://www.upc.edu/es"
+- name: National Institute of Technology Durgapur
+  url: https://nitdgp.ac.in/
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dr. Cristián Ramón-Cortés Vilarrodona works as a Senior Software Engineer at Dynatrace."
+bio: "Ravindra Raut is a PhD Student in National Institute of Technology Durgapur"
 
 interests:
-- Task-based Workflows and Dataflows
-- High Performance Computing (HPC)
-- Big Data Analytics (BDA)
-- Distributed Computing (DC)
+- Transposable Elements
+- Programming languages
+- NGS data analysis
+- Computational Biology 
 
 education:
   courses:
-  - course: PhD in Computer Sciences
-    institution: Computer Architecture Department (DAC - UPC) and Barcelona Supercomputing Center (BSC)
-    year: 2020
-  - course: MSc. in Innovation and Research in Informatics, High Performance Computing (MIRI - HPC)
-    institution: Polytechnical University of Catalonia (UPC)
-    year: 2017
-  - course: Dual BSc. Diploma
-    institution: Centre de Formació Interdisciplinaria Superior (CFIS - UPC)
-    year: 2014
-  - course: Engineering Degree (BSc. and MSc.) in Computer Science Engineering
-    institution: Facultat d'Informatica de Barcelona (FIB - UPC)
-    year: 2014
-  - course: Engineering Degree (BSc. and MSc.) in Industrial Engineering
-    institution: Escola Tecnica Superior d'Enginyeria Industrial de Barcelona (ETSEIB - UPC)
-    year: 2014
-  - course: Primary, Secondary and General Education
-    institution: AULA Escola Europea
-    year: 2008
+  - course: PhD in Biotechnology
+    institution: National Institute of Technology Durgapur, India
+    year: Ongoing
+  - course: MTech in Biotechnology
+    institution: Indian Institute of Technology Guwahati, India
+    year: 2013
+  - course: MSc in Biotechnology
+    institution: SRTM University Nanded, India
+    year: 2009
+  - course: BSc in Chemistry, Botany & Zoology
+    institution: SRTM University Nanded, India
+    year: 2007  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,28 +49,28 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://es.linkedin.com/in/cristian-ramon-cortes
-- icon: google-scholar
-  icon_pack: ai
-  link: //scholar.google.es/citations?user=vPRVVdwAAAAJ
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-4170-818X
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Cristian_Ramon-Cortes_Vilarrodona
+  link: https://www.linkedin.com/in/ravindra-raut-9402bb69/
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: //scholar.google.es/citations?user=vPRVVdwAAAAJ
+# - icon: orcid
+ # icon_pack: ai
+ # link: https://orcid.org/0000-0003-4170-818X
+# - icon: researchgate
+ # icon_pack: ai
+ # link: https://www.researchgate.net/profile/Cristian_Ramon-Cortes_Vilarrodona
 - icon: github
   icon_pack: fab
-  link: https://github.com/cristianrcv
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/6018655/cristian-ramon-cortes
+  link: https://github.com/Ravindra-Raut/
+# - icon: stack-overflow
+ # icon_pack: fab
+ # link: https://stackoverflow.com/users/6018655/cristian-ramon-cortes
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cristianrcv@gmail.com"
+email: "raviraut206@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -90,13 +81,23 @@ user_groups:
 
 
 <p align="justify">
-Cristián Ramón-Cortés Vilarrodona holds a PhD on Computer Sciences (<a href="http://www.ac.upc.edu/es" target="_blank">DAC</a>, 2020), a MSc. on Research and Innovation in Informatics - High Performance Computing (<a href="https://masters.fib.upc.edu/masters/miri-high-performance-computing" target="_blank">MIRI - HPC</a>, 2017), an Engineering Degree (BSc. and MSc.) on Computer Science Engineering (<a href="https://www.fib.upc.edu/" target="_blank">FIB</a>, 2014), an Engineering Degree (BSc. and MSc.) on Industrial Engineering (<a href="https://etseib.upc.edu/ca" target="_blank">ETSEIB</a>, 2014), and a Dual BSc. Diploma (<a href="https://cfis.upc.edu/" target="_blank">CFIS</a>, 2014), all of them from the <a href="https://www.upc.edu/" target="_blank">Technical University of Catalonia (UPC)</a>.
+I am a PhD Student with research experience in experimental & computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular biology, genetics. I'm always looking to connect with people in related fields and explore opportunities..
 </p>
 
-<p align="justify">
-From 2011 to the end of 2013, he worked as a teacher in a study consultancy. In 2014 he joined the <a href="https://www.bsc.es/" target="_blank">Barcelona Supercomputing Center (BSC)</a> as a Resident Student for the Grid Computing group. Since the beginning of 2016 to May 2017, he worked as a Junior Developer for the <a href="https://www.bsc.es/discover-bsc/organisation/scientific-structure/workflows-and-distributed-computing" target="_blank">Workflows and Distributed Computing group (WDC)</a>. From May 2017 until October 2020 he received a PhD Student grant from the Spanish Ministry to work in collaboration with the same group.
-</p>
+### Skills ###
+**Programming**
+- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/))
+- Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/))
+- Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
 
-<p align="justify">
-During his career at the BSC, he has contributed in the design and development of different tools and programming models for HPC in distributed platforms, such as <a href="http://compss.bsc.es" target="_blank">COMPSs</a>, <a href="http://compss.bsc.es" target="_blank">PyCOMPSs</a>, and <a href="https://www.bsc.es/research-and-development/software-and-apps/software-list/pmes" target="_blank">PMES</a>. His current research interests are focused on Programming Models and Frameworks for Analytic, Streaming, and HPC workflows in distributed computing platforms.
-</p>
+**Computational Biology**
+- Multi-omics (Secondary and tertiary analysis of NGS data)
+- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl Plants ](http://plants.ensembl.org/index.html))
+- Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/))
+- Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar))
+- Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/))
+- Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/))
+- Molecular Simulation ([GROMACS](https://www.gromacs.org/))
+- Digital Image Processing ([ImageJ](https://imagej.net/ImageJ), [Fiji](https://imagej.net/Fiji), & [CellProfiler](https://cellprofiler.org/))
+
+
