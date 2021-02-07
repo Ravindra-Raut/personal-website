@@ -8,7 +8,7 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Catalan version of the site
-[ca]
+#[ca]
   languageCode = "ca-ca"
   contentDir = "content/ca"
   [ca.params]
@@ -53,7 +53,7 @@
       weight = 8
 
 # Spanish version of the site
-[es]
+#[es]
   languageCode = "es-es"
   contentDir = "content/es"
   [es.params]
@@ -98,7 +98,7 @@
       weight = 8
 
 # French version of the site
-[fr]
+#[fr]
   languageCode = "fr-fr"
   contentDir = "content/fr"
   [fr.params]
