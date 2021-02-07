@@ -85,7 +85,7 @@ I am a PhD Student with research experience in experimental & computational geno
 </p>
 
 
-<p align=" ">
+<p align="left">
 ### Skills ###
 **Programming**
 - Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/))
