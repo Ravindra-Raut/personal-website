@@ -39,15 +39,15 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "brackets-curly"
+  icon = "terminal"
   icon_pack = "fas"
   name = "Perl"
   description = ""
 
 [[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "GIT"
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "git"
   description = ""
 
 [[feature]]
