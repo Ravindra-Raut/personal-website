@@ -52,19 +52,19 @@ social:
   link: https://www.linkedin.com/in/ravindra-raut-9402bb69/
 # - icon: google-scholar
 #  icon_pack: ai
-#  link: //scholar.google.es/citations?user=vPRVVdwAAAAJ
+#  link: 
 # - icon: orcid
  # icon_pack: ai
- # link: https://orcid.org/0000-0003-4170-818X
+ # link: 
 # - icon: researchgate
  # icon_pack: ai
- # link: https://www.researchgate.net/profile/Cristian_Ramon-Cortes_Vilarrodona
+ # link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/Ravindra-Raut/
 # - icon: stack-overflow
  # icon_pack: fab
- # link: https://stackoverflow.com/users/6018655/cristian-ramon-cortes
+ # link: 
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
