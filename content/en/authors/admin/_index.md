@@ -90,7 +90,7 @@ I am a PhD Student with research experience in experimental & computational geno
 
 **Computational Biology** <br/>
 - Multi-omics (Secondary and tertiary analysis of NGS data) <br/>
-- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl Plants ](http://plants.ensembl.org/index.html)) <br/>
+- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl](http://plants.ensembl.org/index.html)) <br/>
 - Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/)) <br/>
 - Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
