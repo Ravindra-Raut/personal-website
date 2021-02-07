@@ -24,7 +24,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -253,9 +253,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
-  api_key = "AIzaSyCjl6XhjnEWaceHdO0TxDeidssvgLBOyMo"
-  zoom = 15
+ # engine = 0
+ # api_key = "AIzaSyCjl6XhjnEWaceHdO0TxDeidssvgLBOyMo"
+ # zoom = 15
 
 ############################
 ## Marketing
