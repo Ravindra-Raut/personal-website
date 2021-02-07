@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "java"
+  icon = "linux"
   icon_pack = "fab"
-  name = "Java"
+  name = "Linux"
   description = ""
   
 [[feature]]
@@ -27,52 +27,22 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "file-code"
-  icon_pack = "fas"
-  name = "C++"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
   description = ""
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Bash"
-  description = ""
-
-#[[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Zk Framework"
-#  description = ""
-
-#[[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Apache Tomcat"
-#  description = ""
+  description = "" 
 
 [[feature]]
-  icon = "cogs"
+  icon = "brackets-curly"
   icon_pack = "fas"
-  name = "Maven"
+  name = "Perl"
   description = ""
-
-[[feature]]
-  icon = "users-cog"
-  icon_pack = "fas"
-  name = "Jenkins"
-  description = ""
-
-#[[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Eclipse"
-#  description = ""
-
-#[[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "IntelliJ Idea"
-#  description = ""
 
 [[feature]]
   icon = "code-branch"
@@ -81,16 +51,11 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "SVN"
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
   description = ""
   
-[[feature]]
-  icon = "feather-alt"
-  icon_pack = "fas"
-  name = "Apache Projects"
-  description = "" 
 
 +++
 
