@@ -11,7 +11,7 @@
 #   Browse user installed themes in `data/themes/`
 # 1950s, apogee, coffee, dark, forest, minimal, mr_robot, ocean, rose, strawberry
 # cofee, dark, forest, ocean,
-theme = "mr_robot"
+theme = "forest"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -146,7 +146,7 @@ address_format = "en-us"
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = false
+gravatar = true
 
 # Choose a shape for avatar images. Options: circle, square.
   shape = "square" 
