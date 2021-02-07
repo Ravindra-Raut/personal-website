@@ -77,7 +77,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/cristianrcv/personal-website", repo_branch = "master", editable = {docs = false, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/Ravindra-Raut/personal-website", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -87,16 +87,16 @@ edit_page = {repo_url = "https://github.com/cristianrcv/personal-website", repo_
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "cristianrcv@gmail.com"
-phone = "Pre-scheduled calls only"
+email = "raviraut206@gmail.com"
+phone = "+91 700 190 2565"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Barcelona", region = "Catalonia", postcode = "08034", country = "Spain", country_code = "SP"}
+address = {street = "", city = "Bengalore", region = "Karnataka", postcode = "560064", country = "India", country_code = "IND"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.3886712", longitude = "2.1125342"}
+# coordinates = {latitude = "41.3886712", longitude = "2.1125342"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -111,13 +111,13 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:cristian.rc.v?call"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/CristianRCV"},
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/cristianrcv"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss", link = "https://discourse.gohugo.io"},
+  {icon = "envelope", icon_pack = "fas", name = "Direct Message on GMail", link = "mailto: raviraut206@gmail.com"},
+  {icon = "twitter", icon_pack = "fab", name = "Message Me on Twitter", link = "https://twitter.com/Ravindra__Raut"},
+   {icon = "slack", icon_pack = "fab", name = "stay connected on Slack", link = "https://app.slack.com/client/TG7HJ1KDJ/CG7UZ382H/user_profile/UGA72026P"}
+  #{icon = "comments", icon_pack = "fas", name = "Discuss", link = "https://discourse.gohugo.io"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   ]
-
+   
 ############################
 ## Social
 ############################
@@ -126,7 +126,7 @@ contact_links = [
 sharing_image = "portrait.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "cristianrcv"
+twitter = "Ravindra__Raut"
 
 ############################
 ## Regional Settings
@@ -257,6 +257,6 @@ plugins_js  = []
 ############################
 ## Marketing
 ############################
-[marketing]
-  google_analytics = "UA-118084674-1"
-  google_tag_manager = ""
+#[marketing]
+  #google_analytics = "UA-118084674-1"
+  #google_tag_manager = ""
