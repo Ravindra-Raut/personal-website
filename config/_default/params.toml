@@ -149,7 +149,7 @@ address_format = "en-us"
 gravatar = false
 
 # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+shape = square 
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
 main_menu = {align = "l", show_logo = true}
