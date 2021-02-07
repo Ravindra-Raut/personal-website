@@ -39,7 +39,7 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "Solid Style"
+  icon = "brackets-curly"
   icon_pack = "fas"
   name = "Perl"
   description = ""
