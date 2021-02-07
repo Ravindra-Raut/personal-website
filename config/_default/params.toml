@@ -11,7 +11,7 @@
 #   Browse user installed themes in `data/themes/`
 # 1950s, apogee, coffee, dark, forest, minimal, mr_robot, ocean, rose, strawberry
 # cofee, dark, forest, ocean,
-theme = "ocean"
+theme = "mr_robot"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -24,7 +24,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -50,7 +50,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "logo.jpg"
+# logo = "logo.jpg"
 
 ############################
 ## Site Features
