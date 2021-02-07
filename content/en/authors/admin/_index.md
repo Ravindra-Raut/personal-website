@@ -83,19 +83,19 @@ user_groups:
 I am a PhD Student with research experience in experimental & computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular biology, genetics. I'm always looking to connect with people in related fields and explore opportunities.
 
 ### Skills ###
-**Programming**
-- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/))
-- Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/))
+**Programming** <br/>
+- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/)) <br/>
+- Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/)) <br/>
 - Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
 
-**Computational Biology**
-- Multi-omics (Secondary and tertiary analysis of NGS data)
-- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl Plants ](http://plants.ensembl.org/index.html))
-- Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/))
-- Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar))
-- Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/))
-- Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/))
-- Molecular Simulation ([GROMACS](https://www.gromacs.org/))
+**Computational Biology** <br/>
+- Multi-omics (Secondary and tertiary analysis of NGS data) <br/>
+- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl Plants ](http://plants.ensembl.org/index.html)) <br/>
+- Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/)) <br/>
+- Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
+- Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
+- Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/)) <br/>
+- Molecular Simulation ([GROMACS](https://www.gromacs.org/)) <br/>
 - Digital Image Processing ([ImageJ](https://imagej.net/ImageJ), [Fiji](https://imagej.net/Fiji), & [CellProfiler](https://cellprofiler.org/))
 
 
