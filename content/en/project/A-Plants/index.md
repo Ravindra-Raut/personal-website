@@ -11,7 +11,7 @@ date: "2013-0-01T00:00:00Z"
 # external_link: https://github.com/bsc-wdc/distro-stream-lib
 
 image:
-  caption: DistroStreamLib
+  caption: A-Plants 1.0
   focal_point: Smart
 
 links:
