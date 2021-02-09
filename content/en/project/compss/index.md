@@ -32,6 +32,6 @@ slides: example
 
 <h2>Description</h2>
 
-Soybean hull peroxidase **(EC1.11.1.7)** is an enzyme isolated from Soybean (*Glycine max*) hulls collected from the local market of Nanded, India. Furthermore, the purification of the enzyme did with the help of ammonium sulphate salt. The observations show the enzyme is most active in pH 4.6 at 45^0C and is stable in pH 3-10. The enzyme could tolerate heat for 10 minutes at 75^0C without being get inactivated. Moreover, at 85^0C, it took 40 minutes to inactivate the enzyme. These observations confirm that the peroxidase is a novel thermostable enzyme. Some chemicals like ZnCl{_2}, NaN_3, FeSO_4 inhibits enzyme activity, while SDS, EDTA was not inhibitory.
+Soybean hull peroxidase **(EC1.11.1.7)** is an enzyme isolated from Soybean (*Glycine max*) hulls collected from the local market of Nanded, India. Furthermore, the purification of the enzyme did with the help of ammonium sulphate salt. The observations show the enzyme is most active in pH 4.6 at 45^0C and is stable in pH 3-10. The enzyme could tolerate heat for 10 minutes at 75<Sup>0 C without being get inactivated. Moreover, at 85<Sup>0 C, it took 40 minutes to inactivate the enzyme. These observations confirm that the peroxidase is a novel thermostable enzyme. Some chemicals like ZnCl{_2}, NaN_3, FeSO_4 inhibits enzyme activity, while SDS, EDTA was not inhibitory.
 
 
