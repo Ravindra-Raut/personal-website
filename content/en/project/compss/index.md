@@ -1,23 +1,23 @@
 ---
-title: COMP Superscalar (COMPSs)
-summary: COMP Superscalar is a framework to ease the development and execution of applications for distributed infrastructures.
+title: Soybean hull peroxidase 
+summary: Isolation, purification of peroxidase from hull of soybean (*Glycine max* L.).
 tags:
-- compss
-date: "2014-03-01T00:00:00Z"
+- peroxidase
+date: "2009-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://compss.bsc.es
+# external_link: http://compss.bsc.es
 
 image:
-  caption: COMPSs Logo
+  caption: peroxidase
   focal_point: Smart
   
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/cristianrcv
-url_code: "https://github.com/cristianrcv/pycompss-autoparallel"
+  url: https://twitter.com/Ravindra__Raut
+#url_code: "https://github.com/cristianrcv/pycompss-autoparallel"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -32,6 +32,6 @@ slides: example
 
 <h2>Description</h2>
 
-You may find more details about COMPSs in <a href="http://compss.bsc.es" target="_blank">its website</a>.
+Soybean hull peroxidase **(EC1.11.1.7)** is an enzyme isolated from Soybean (*Glycine max*) hulls collected from the local market of Nanded, India. Furthermore, the purification of the enzyme did with the help of ammonium sulphate salt. The observations show the enzyme is most active in pH 4.6 at 45^0C and is stable in pH 3-10. The enzyme could tolerate heat for 10 minutes at 75^0C without being get inactivated. Moreover, at 85^0C, it took 40 minutes to inactivate the enzyme. These observations confirm that the peroxidase is a novel thermostable enzyme. Some chemicals like ZnCl_2, NaN_3, FeSO_4 inhibits enzyme activity, while SDS, EDTA was not inhibitory.
 
 
