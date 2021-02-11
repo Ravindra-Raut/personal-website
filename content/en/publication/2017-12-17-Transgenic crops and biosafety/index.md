@@ -2,13 +2,13 @@
 title: "Recent Advances in the Development of Transgenic Crop Plants, Biosafety Aspects, and Future Perspectives"
 authors:
 - admin
-- Subhankar. Roy-Barman 
+- Subhankar Roy-Barman 
 - Atrayee Sarkar
 - Nazmiara Sabnam
 - Sanjukta Chakraborty
 - Pallabi Saha
 date: "2017-12-17T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1201/9781315213736"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-12-17T00:00:00Z"
@@ -67,14 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-<h2>Type</h2>
-
-
-<h2>Original Title</h2>
-
-
-<h2>Original Abstract</h2>
-<p align="justify">
-
-</p>
