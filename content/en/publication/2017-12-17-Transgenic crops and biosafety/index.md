@@ -1,8 +1,8 @@
 ---
 title: "Recent Advances in the Development of Transgenic Crop Plants, Biosafety Aspects, and Future Perspectives"
 authors:
-- admin
 - Subhankar Roy-Barman 
+- admin
 - Atrayee Sarkar
 - Nazmiara Sabnam
 - Sanjukta Chakraborty
@@ -37,7 +37,7 @@ featured: false
 # - name: ""
 #   url: ""
 
-url_pdf: 'https://www.taylorfrancis.com/chapters/recent-advances-development-transgenic-crop-plants-biosafety-aspects-future-perspectives-subhankar-roy-barman-ravindra-raut-atrayee-sarkar-nazmiara-sabnam-sanjukta-chakraborty-pallabi-saha/e/10.1201/9781315213736-10'
+url_pdf: 'https://github.com/Ravindra-Raut/personal-website/blob/master/content/en/publication/2017-12-17-Transgenic%20crops%20and%20biosafety/Plant%20Biotechnology-pages-294-434-c.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
