@@ -8,7 +8,7 @@ address: The University of Trans-disciplinary Health Sciences & Technology
   street: ''
   city: Bengaluru
   region: Karnataka
-  postcode: ''
+  postcode: '560064'
   country: India
 
 summary: ""
