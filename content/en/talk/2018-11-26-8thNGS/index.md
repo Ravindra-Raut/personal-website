@@ -3,13 +3,13 @@ title: "Hands on Session on Bioinformatics: Transposon Discovery and Annotation"
 event: 8th NGS
 event_url: http://tdu.edu.in/events/ngs-nov2018/
 
-location: "Centre for Functional Genomics & Bio-informatics"
-address: "The University of Trans-disciplinary Health Sciences & Technology"
+location: 'Centre for Functional Genomics & Bio-informatics'
+address: 'The University of Trans-disciplinary Health Sciences & Technology'
   street: ''
-  city: Bengaluru
-  region: Karnataka
+  city: 'Bengaluru'
+  region: 'Karnataka'
   postcode: '560064'
-  country: India
+  country: 'India'
 
 summary: ""
 abstract: ""
