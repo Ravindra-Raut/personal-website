@@ -4,7 +4,7 @@ event: 8th NGS
 event_url: http://tdu.edu.in/events/ngs-nov2018/
 
 location:
-address: "The University of Trans-disciplinary Health Sciences & Technology"
+address: The University of Trans-disciplinary Health Sciences & Technology
   street: ''
   city: 'Bengaluru'
   region: 'Karnataka'
