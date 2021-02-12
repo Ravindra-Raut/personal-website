@@ -17,11 +17,11 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-02-11T10:30:00Z"
-date_end: "2018-02-16T11:00:00Z"
+date_end: "2019-02-16T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-11-26T11:00:00Z"
+publishDate: "2019-02-11T11:00:00Z"
 
 authors: [admin]
 tags: [transposon]
