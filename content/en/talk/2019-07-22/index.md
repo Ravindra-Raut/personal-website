@@ -1,5 +1,5 @@
 ---
-title: "Hands on Session on Bioinformatics: Transposon Discovery and Annotation"
+title: "Genome Browser and Databases"
 event: 14th Advanced Training Program on Genomics & Metagenomics
 event_url: http://tdu.edu.in/genomics/genomics-events/
 
