@@ -14,8 +14,8 @@ categories:
 - netlify
 - jekyll
 - gulp
-date: "2017-07-18T00:00:00Z"
-lastmod: "2017-07-18T00:00:00Z"
+date: "2021-02-12T00:00:00Z"
+lastmod: "2021-02-12T00:00:00Z"
 featured: true
 draft: false
 
@@ -44,7 +44,7 @@ Finally the first stable version of my personal website goes live!
 I must highlight that I have never been nor a Web programmer nor a Designer, so this has ridiculously taken a large amount of time from me. I apologise if you find any broken link, unavailable image, unreadable text, etc. but I am still learning how it works. In fact, this website is based on the <a href="https://github.com/bawn92/sleek_blog" target="_blank">Sleek Blog</a> by bawn92.
 </p>
 <p align="justify">
-This said, I must recommend this solution for people like me since I find it very comfortable, and there are lots of other templates if you do not like this one. Currently, I am using Netlify for hosting and continous building, and Jekyll and Gulp for development. The website is fully synchronized with a GitHub project (if you are really interested you can check it out at my <a href="https://github.com/cristianrcv/personal-website" target="_blank">GitHub Personal Website Project</a>) that Netlify builds whenever something new is commited. Amazing!
+This said, I must recommend this solution for people like me since I find it very comfortable, and there are lots of other templates if you do not like this one. Currently, I am using Netlify for hosting and continous building, and Jekyll and Gulp for development. The website is fully synchronized with a GitHub project (if you are really interested you can check it out at my <a href="https://github.com/ravindra-raut/personal-website" target="_blank">GitHub Personal Website Project</a>) that Netlify builds whenever something new is commited. Amazing!
 </p>
 <p align="justify">
 Please feel free to leave any comment or improvement but be benevolent since its my first personal website :smiley:
