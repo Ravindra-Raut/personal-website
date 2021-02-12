@@ -1,36 +1,36 @@
 ---
-title: 10th Training Program – “Hands-on Training on Next Generation Sequencing, Analysis & its Applications”
-event: "10th Training Program 2019"
-event_url: "http://tdu.edu.in/events/10th-ngs/"
+title: "10th Training Program – “Hands-on Training on Next Generation Sequencing, Analysis & its Applications”"
+event: 10th Training Program
+event_url: http://tdu.edu.in/events/10th-ngs/
 
-location: TDU Bengaluru
+location: The University of Trans-disciplinary Health Sciences & Technology
 address:
-  street: The University of Trans-disciplinary Health Sciences & Technology
-  city: Bengaluru
-  region: Karnataka
+  street: '74/2, Jarakabande Kaval'
+  city: 'Bengaluru'
+  region: 'Karnataka'
   postcode: '560064'
-  country: India
+  country: 'India'
 
 summary: ""
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-02-11T10:10:00Z"
-date_end: "2019-02-16T10:30:00Z"
+date: "2019-02-11T10:30:00Z"
+date_end: "2018-02-16T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-02-11T10:30:00Z"
+publishDate: "2018-11-26T11:00:00Z"
 
 authors: [admin]
 tags: [transposon]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: '10th Training Program'
+  caption: 'Transposon Discovery and Annotation - 10th Training Program'
   focal_point: Smart
 
 links:
@@ -39,9 +39,9 @@ links:
   name: Follow
   url: https://twitter.com/Ravindra__Raut
   
-url_code: ""
 # url_pdf: "https://arxiv.org/pdf/1810.11268.pdf"
-# url_slides: "https://cristianrcv.netlify.com/files/talk/2019-02-25-SIAMCSE19-autoparallel-presentation.pdf"
+# url_slides: "https://cristianrcv.netlify.com/files/talk/2018-11-12-SC18-autoparallel-presentation.pdf"
+url_pdf: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -57,12 +57,17 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- autoparallel
-- compss
+- transposons
+
 
 # Enable math on this page?
 math: false
 ---
+
+<h2>Issued by</h2>
+
+10th Training Program – “Hands-on Training on Next Generation Sequencing, Analysis & its Applications”
+
 <h2>Title</h2>
 
-Hands on Session on Bioinformatics: Transposon Discovery and Annotation
+Transposon Discovery and Annotation
