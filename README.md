@@ -1,9 +1,6 @@
 <!-- Build Status -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eb9743e0-12bd-41ac-b8e9-0ffb7132265f/deploy-status)](https://app.netlify.com/sites/ravindra-raut2/deploys)  
 
-# <!-- Code status -->
-# [![Code Status](#https://api.codacy.com/project/badge/Grade/cb48abdc642a4c159705ae77188fbf5a)](#https://www.codacy.com/app/cristianrcv/personal-# website?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cristianrcv/personal-website&amp;utm_campaign=Badge_Grade)
-
 # <!-- Main Repository language -->
 # [![Language](https://img.shields.io/badge/language-Shell-yellowgreen.svg)](https://img.shields.io/badge/language-JavaScript-brightgreen.svg)
 
