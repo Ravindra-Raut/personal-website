@@ -3,7 +3,7 @@ title: 10th Training Program – “Hands-on Training on Next Generation Sequenc
 event: "10th Training Program 2019"
 event_url: "http://tdu.edu.in/events/10th-ngs/"
 
-location: Spokane Convention Center (SCC)
+location: TDU Bengaluru
 address:
   street: The University of Trans-disciplinary Health Sciences & Technology
   city: Bengaluru
@@ -63,10 +63,6 @@ projects:
 # Enable math on this page?
 math: false
 ---
-
-<h2>Issued by</h2>
-
-
 <h2>Title</h2>
 
 Hands on Session on Bioinformatics: Transposon Discovery and Annotation
