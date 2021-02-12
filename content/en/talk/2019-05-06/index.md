@@ -3,9 +3,9 @@ title: "Hands on Session on Bioinformatics: Transposon Discovery and Annotation"
 event: 12th training on Whole Genome Sequencing & Data Analysis
 event_url: http://tdu.edu.in/genomics/genomics-events/
 
-location: The University of Trans-disciplinary Health Sciences & Technology (TDU)
+location: The University of Trans-disciplinary Health Sciences & Technology
 address:
-  street: '74/2, Jarakabande Kaval, Post Attur via Yelahanka'
+  street: ''
   city: 'Bengaluru'
   region: 'Karnataka'
   postcode: '560064'
@@ -17,7 +17,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-05-06T10:30:00Z"
-date_end: "2019--5-11T11:00:00Z"
+date_end: "2019-05-11T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
