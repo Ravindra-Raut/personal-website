@@ -11,7 +11,7 @@
 #   Browse user installed themes in `data/themes/`
 # 1950s, apogee, coffee, dark, forest, minimal, mr_robot, ocean, rose, strawberry
 # cofee, dark, forest, ocean,
-theme = "minimal"
+theme = "strawberry"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -112,7 +112,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "send an email", link = "mailto: raviraut206@gmail.com"},
-  {icon = "twitter", icon_pack = "fab", name = "Message me on Twitter", link = "https://twitter.com/Ravindra__Raut"},
+  {icon = "twitter", icon_pack = "fab", name = "message me on Twitter", link = "https://twitter.com/Ravindra__Raut"},
    {icon = "slack", icon_pack = "fab", name = "stay connected on Slack", link = "https://app.slack.com/client/TG7HJ1KDJ/CG7UZ382H/user_profile/UGA72026P"}
   #{icon = "comments", icon_pack = "fas", name = "Discuss", link = "https://discourse.gohugo.io"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
