@@ -11,7 +11,7 @@
 #   Browse user installed themes in `data/themes/`
 # 1950s, apogee, coffee, dark, forest, minimal, mr_robot, ocean, rose, strawberry
 # cofee, dark, forest, ocean,
-theme = "1950s"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
