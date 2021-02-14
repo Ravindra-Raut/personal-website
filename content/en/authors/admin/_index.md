@@ -80,7 +80,7 @@ email: ""
 ---
 
 
-<p style='text-align: justify;'>I am a PhD Student with research experience in experimental & computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I'm interested in developing and computational programming methods to genomic data, with the aim of improving molecular biology, genetics. I'm always looking to connect with people in related fields and explore opportunities.</p>
+<p style='text-align: justify;'>I am a Ph.D student with research experience in experimental & computational genomics, next-generation DNA/RNA sequencing, and transposable element analysis. Currently, I am interested in computational biology methods and their applications to understand genomics, genetics, and molecular biology. I am always looking to connect people in related fields to explore research opportunities.</p>
 
 ### Skills ###
 **Programming** <br/>
