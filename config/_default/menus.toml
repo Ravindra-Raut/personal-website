@@ -8,10 +8,10 @@
   url = "#00_about"
   weight = 1
 
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 2
+#[[main]]
+ # name = "Skills"
+ # url = "#skills"
+ # weight = 2
 
 [[main]]
   name = "Experience"
@@ -43,10 +43,10 @@
   url = "#06_certification"
   weight = 7
 
-[[main]]
-  name = "Posts"
-  url = "post/"
-  weight = 8
+#[[main]]
+  #name = "Posts"
+  #url = "post/"
+  #weight = 8
 
 [[main]]
   name = "Contact"
