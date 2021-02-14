@@ -10,48 +10,48 @@
 
 #[[main]]
  # name = "Skills"
- # url = "#skills"
+ # url = "#01_skills"
  # weight = 2
 
 [[main]]
   name = "Experience"
-  url = "#experience"
+  url = "#03_experience"
   weight = 3
 
 [[main]]
   name = "Accomplishments"
-  url = "#accomplishments"
+  url = "#04_accomplishments"
   weight = 4
 
 [[main]]
   name = "Projects"
-  url = "project/"
-  weight = 4
-
-[[main]]
-  name = "Publications"
-  url = "publication/"
+  url = "#05_project"
   weight = 5
 
 [[main]]
-  name = "Talks"
-  url = "talk/"
+  name = "Publications"
+  url = "#06_publication"
   weight = 6
 
 [[main]]
-  name = "Certification"
-  url = "#06_certification"
+  name = "Talks"
+  url = "#07_talk"
   weight = 7
+
+[[main]]
+  name = "Certification"
+  url = "#08_certification"
+  weight = 8
 
 #[[main]]
   #name = "Posts"
-  #url = "post/"
-  #weight = 8
+  #url = "#09_post/"
+  #weight = 9
 
 [[main]]
   name = "Contact"
-  url = "#99_contact"
-  weight = 9
+  url = "#10_contact"
+  weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
