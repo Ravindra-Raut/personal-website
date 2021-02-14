@@ -30,8 +30,15 @@ url_video: ""
 slides: example
 ---
 
-<h2>Description</h2>
+<h3>Description</h3>
 
 Seri Bio-resource Database (SBDB) is a flat file-based database containing information such as silkworm distribution, all the diseases, pathogens, pests, predators and parasites of silkworms. It also includes information about all possible host plants, Host plant distribution, diseases of host plants, pathogens and pests of host plants. This database will be extremely useful for researchers, industry personals, and even for formers involved in sericulture. 
+
+<h2>Type</h2>
+M Tech Project 
+<h2>Supervisors</h2>
+Utpal Bora, Indian Institute of Technology Guwahati
+<h2>Keywords</h2>
+silkworms, host plants, database
 
 
