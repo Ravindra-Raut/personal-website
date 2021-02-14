@@ -36,7 +36,7 @@ Seri Bio-resource Database (SBDB) is a flat file-based database containing infor
 
 <h2>Type</h2>
 M Tech Project 
-<h2>Supervisors</h2>
+<h2>Supervisor</h2>
 Utpal Bora, Indian Institute of Technology Guwahati
 <h2>Keywords</h2>
 silkworms, host plants, database
