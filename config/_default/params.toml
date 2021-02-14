@@ -87,7 +87,7 @@ edit_page = {repo_url = "https://github.com/Ravindra-Raut/personal-website", rep
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "raviraut206@gmail.com"
+email = ""
 phone = "+91 700 190 2565"
 
 # Address
