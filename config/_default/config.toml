@@ -20,7 +20,7 @@ copyright = "&copy; 2021"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic@fc0d15d"
+theme = "Hugo Module"
 
 # Get last modified date for content from Git?
 enableGitInfo = true
