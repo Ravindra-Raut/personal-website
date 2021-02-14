@@ -15,42 +15,42 @@
 
 [[main]]
   name = "Experience"
-  url = "#03_experience"
+  url = "#02_experience"
   weight = 3
 
 [[main]]
   name = "Accomplishments"
-  url = "#04_accomplishments"
+  url = "#03_accomplishments"
   weight = 4
 
 [[main]]
   name = "Projects"
-  url = "#05_project"
+  url = "#04_project"
   weight = 5
 
 [[main]]
   name = "Publications"
-  url = "#06_publication"
+  url = "#05_publication"
   weight = 6
 
 [[main]]
   name = "Talks"
-  url = "#07_talk"
+  url = "#06_talk"
   weight = 7
 
 [[main]]
   name = "Certification"
-  url = "#08_certification"
+  url = "#07_certification"
   weight = 8
 
 #[[main]]
   #name = "Posts"
-  #url = "#09_post/"
+  #url = "#08_post/"
   #weight = 9
 
 [[main]]
   name = "Contact"
-  url = "#10_contact"
+  url = "#09_contact"
   weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
