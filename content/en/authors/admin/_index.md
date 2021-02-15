@@ -96,6 +96,6 @@ email: ""
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
 - Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/)) <br/>
 - Molecular Simulation ([GROMACS](https://www.gromacs.org/)) <br/>
-- Digital Image Processing ([ImageJ](https://imagej.net/ImageJ), [Fiji](https://imagej.net/Fiji), & [CellProfiler](https://cellprofiler.org/))
+- Digital Image Analysis ([ImageJ](https://imagej.net/ImageJ), [Fiji](https://imagej.net/Fiji), & [CellProfiler](https://cellprofiler.org/))
 
 
