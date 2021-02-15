@@ -71,8 +71,8 @@ abstract:<p style='text-align: justify;'>Transposable elements (TEs) are mobile 
 Transposable elements, Oryza sativa, Plant disease resistance R-genes
 
 <h2>Supervisors</h2>
-Prof. Malali Gowda, Centre for Functional Genomics & ioinformatics, TDU Bengaluru, and
-Dr. Subhankar Roy barman, NIT Durgapur
+Prof. Malali Gowda, Centre for Functional Genomics & Bioinformatics, TDU Bengaluru, and
+Dr. Subhankar Roy Barman, NIT Durgapur
 
 <h2>Issued by</h2>
 
