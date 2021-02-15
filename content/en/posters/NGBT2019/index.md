@@ -41,8 +41,8 @@ Transposable elements, *Oryza sativa*, Plant disease resistance R-genes
 <h2>Conference</h2>
 NGBT2019 NextGen Genomics, Biology, Bioinformatics and Technologies (NGBT) Conference |Mumbai, India, Sept 29-Oct 1, 2019
 <h2>Supervisors</h2>
-<p style='text-align: right;'>Prof. Malali Gowda, Centre for Functional Genomics & ioinformatics, TDU Bengaluru and </p>
-<p style='text-align: right;'>Dr Subhankar Roy barman, NIT Durgapur </p>
+<p style='text-align: left;'>Prof. Malali Gowda, Centre for Functional Genomics & ioinformatics, TDU Bengaluru and </p>
+<p style='text-align: left;'>Dr Subhankar Roy barman, NIT Durgapur </p>
 
 
 
