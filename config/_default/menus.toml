@@ -29,6 +29,11 @@
   weight = 5
 
 [[main]]
+  name = "Posters"
+  url = "#11_posters"
+  weight = 11
+
+[[main]]
   name = "Publications"
   url = "#05_publications"
   weight = 6
