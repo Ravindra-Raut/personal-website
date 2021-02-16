@@ -63,17 +63,8 @@ projects:
 # Enable math on this page?
 math: false
 ---
-abstract:<p style='text-align: justify;'>The silkworms, domesticated over the last 5000 years from wild progenitors, are an
-important source of livelihood for subsistence farmers engaged in silk production in many
-countries. Silk, a natural protein fiber composed mainly of Fibroin (75%) and Sericin (25%),
-is getting interest by researchers due to its luster and elegance property. Currently, it is
-produced by five major types of silkworms including mulberry, tasar, oak tasar, eri and muga
-among which mulberry silkworm (Bombyx mori) is the most popular for commercial silk
-production which completely feeds on the leaves of mulberry plant. Seri-Bioresource
-database (SBDB) is a flat file based database which provides all the information regarding
-silkworms their distribution, diseases, pests, predators and parasites including their host
-plant’s distribution, diseases, and pests. This database will be extremely useful for
-researchers, industry personals, and even for formers involved in sericulture.</p>
+abstract:<p style='text-align: justify;'>The silkworms, domesticated over the last 5000 years from wild progenitors, are an important source of livelihood for subsistence farmers engaged in silk production in many countries. Silk, a natural protein fiber composed mainly of Fibroin (75%) and Sericin (25%), is getting interest by researchers due to its luster and elegance property. Currently, it is produced by five major types of silkworms including mulberry, tasar, oak tasar, eri and muga among which mulberry silkworm (Bombyx mori) is the most popular for commercial silk
+production which completely feeds on the leaves of mulberry plant. Seri-Bioresource database (SBDB) is a flat file based database which provides all the information regarding silkworms their distribution, diseases, pests, predators and parasites including their host plant’s distribution, diseases, and pests. This database will be extremely useful for researchers, industry personals, and even for formers involved in sericulture.</p>
 
 <h2>Keywords</h2>
 Silkworms, Host plants, database
