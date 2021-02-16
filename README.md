@@ -11,7 +11,7 @@
 Ravindra Raut Personal Website
 =============================
 
-[Live Website](https://ravindra-raut2.netlify.app/)
+[Live Website](https://ravindra-raut.netlify.app/)
 
 
 A personal website using Academic, Hugo, and Netlify.
