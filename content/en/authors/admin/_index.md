@@ -50,9 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ravindra-raut-9402bb69/
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=F2wQqxwAAAAJ
 # - icon: orcid
  # icon_pack: ai
  # link: 
