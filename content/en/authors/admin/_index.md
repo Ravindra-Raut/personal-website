@@ -93,6 +93,7 @@ email: ""
 - Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl](http://plants.ensembl.org/index.html)) <br/>
 - Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/)) <br/>
 - Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
+- Variant calling ( [GATK], [BWA],[VarScan],[SnpEff], [ClinVar], [Mutalyze], [VariantValidator], [Ensembl VEP] ) <br/>
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
 - Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/)) <br/>
 - Molecular Simulation ([GROMACS](https://www.gromacs.org/)) <br/>
