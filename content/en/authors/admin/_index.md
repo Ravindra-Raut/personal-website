@@ -53,9 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=F2wQqxwAAAAJ
- - icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2615-7757/
+ #- icon: orcid
+ # icon_pack: ai
+ #link: https://orcid.org/0000-0002-2615-7757/
 # - icon: researchgate
  # icon_pack: ai
  # link: 
