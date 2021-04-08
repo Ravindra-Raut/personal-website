@@ -93,7 +93,7 @@ email: ""
 - Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl](http://plants.ensembl.org/index.html)) <br/>
 - Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/)) <br/>
 - Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
-- Variant calling ( [GATK], [BWA],[VarScan],[SnpEff], [ClinVar], [Mutalyze], [VariantValidator], [Ensembl VEP] ) <br/>
+- Variant calling ( [GATK](https://gatk.broadinstitute.org/hc/en-us), [BWA](https://sourceforge.net/projects/bio-bwa/files/),[VarScan](http://varscan.sourceforge.net/),[SnpEff](https://pcingola.github.io/SnpEff/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), [Mutalyze](https://mutalyzer.nl/), [VariantValidator](https://variantvalidator.org/), [Ensembl VEP](https://asia.ensembl.org/info/docs/tools/vep/index.html) )) <br/>
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
 - Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/)) <br/>
 - Molecular Simulation ([GROMACS](https://www.gromacs.org/)) <br/>
