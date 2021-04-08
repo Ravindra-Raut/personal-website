@@ -23,9 +23,9 @@ bio: "Ravindra Raut is a PhD Student in National Institute of Technology Durgapu
 
 interests:
 - Transposable Elements
-- Programming languages
 - NGS data analysis
-- Computational Biology 
+- Computational Biology
+- Programming languages 
 
 education:
   courses:
@@ -53,9 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=F2wQqxwAAAAJ
-# - icon: orcid
- # icon_pack: ai
- # link: 
+ - icon: orcid
+  icon_pack: ai
+  link: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2615-7757" href="https://orcid.org/0000-0002-2615-7757" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2615-7757</a></div>
 # - icon: researchgate
  # icon_pack: ai
  # link: 
