@@ -84,16 +84,17 @@ email: ""
 
 ### Skills ###
 **Programming** <br/>
-- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/)) <br/>
-- Version control system or Source code management ([git](https://git-scm.com/), [GitHub](https://github.com/)) <br/>
+- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash Scripting](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/)) <br/>
+- Version control system  ([git](https://git-scm.com/), [GitHub](https://github.com/)) <br/>
 - Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
+- Tools ([Rstudio](https://www.rstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/), [Visual Studio code](https://code.visualstudio.com/)) <br/>
 
 **Computational Biology** <br/>
 - Multi-omics (Secondary and tertiary analysis of NGS data) <br/>
 - Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl](http://plants.ensembl.org/index.html)) <br/>
 - Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/)) <br/>
 - Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
-- Variant calling ( [GATK](https://gatk.broadinstitute.org/hc/en-us), [BWA](https://sourceforge.net/projects/bio-bwa/files/),[VarScan](http://varscan.sourceforge.net/),[SnpEff](https://pcingola.github.io/SnpEff/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), [Mutalyze](https://mutalyzer.nl/), [VariantValidator](https://variantvalidator.org/), [Ensembl VEP](https://asia.ensembl.org/info/docs/tools/vep/index.html) )) <br/>
+- Variant calling ( [GATK](https://gatk.broadinstitute.org/hc/en-us), [BWA](https://sourceforge.net/projects/bio-bwa/files/), [VarScan](http://varscan.sourceforge.net/), [SnpEff](https://pcingola.github.io/SnpEff/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), [Mutalyze](https://mutalyzer.nl/), [VariantValidator](https://variantvalidator.org/), [Ensembl VEP](https://asia.ensembl.org/info/docs/tools/vep/index.html) ) <br/>
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
 - Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/)) <br/>
 - Molecular Simulation ([GROMACS](https://www.gromacs.org/)) <br/>
