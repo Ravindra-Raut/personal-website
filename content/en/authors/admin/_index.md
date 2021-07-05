@@ -84,17 +84,23 @@ email: ""
 
 ### Skills ###
 **Programming** <br/>
-- Programming languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash Scripting](https://www.gnu.org/software/bash/), [Linux](https://ubuntu.com/), [Perl](https://www.perl.org/)) <br/>
+- Languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash Scripting](https://www.gnu.org/software/bash/), [Perl](https://www.perl.org/)) <br/>
+- Workflow management system ( [Nextflow] (https://www.nextflow.io/), [Galaxy] (https://usegalaxy.org/) ) <br/>
+- Containerisation tool ([Docker] (https://www.docker.com/)) <br/>
+- Cloud computing ([AWS] (https://aws.amazon.com/)) <br/>
 - Version control system  ([git](https://git-scm.com/), [GitHub](https://github.com/)) <br/>
 - Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
+- Document preparation system ([LATEX] (https://www.latex-project.org/), [RMarkdown] (https://rmarkdown.rstudio.com/index.html)) <br/>
 - Tools ([Rstudio](https://www.rstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/), [Visual Studio code](https://code.visualstudio.com/)) <br/>
 
 **Computational Biology** <br/>
-- Multi-omics (Secondary and tertiary analysis of NGS data) <br/>
-- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl](http://plants.ensembl.org/index.html)) <br/>
-- Functional genomics ([Bioconductor](https://www.bioconductor.org/), [Galaxy](https://usegalaxy.org/)) <br/>
-- Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
+- Downstream sequence data analysis of ([illumina] (https://sapac.illumina.com/), [Oxford Nanopore] (https://nanoporetech.com/)) <br/>
+- WGS ([FastQC] (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [SPAdes] (https://cab.spbu.ru/software/spades/), [QUAST] (http://quast.sourceforge.net/), [PROKKA] (https://github.com/tseemann/prokka)) <br/>
+- RNAseq ([Trinity] (https://github.com/trinityrnaseq/trinityrnaseq/wiki), [RSEM] (https://github.com/deweylab/RSEM), [edgeR] (http://www.bioconductor.org/packages/release/bioc/html/edgeR.html), [Trinotate] (https://github.com/Trinotate/Trinotate.github.io/wiki/Software-installation-and-data-required)) <br/>
+- Repeats Analysis ([RepeatModeler](http://www.repeatmasker.org/RepeatModeler/), [RepeatMasker](http://www.repeatmasker.org/), [RepeatExplorer2] (http://repeatexplorer.org/), [MISA](https://webblast.ipk-gatersleben.de/misa/), [GMATA](https://sourceforge.net/projects/gmata/files/?source=navbar)) <br/>
 - Variant calling ( [GATK](https://gatk.broadinstitute.org/hc/en-us), [BWA](https://sourceforge.net/projects/bio-bwa/files/), [VarScan](http://varscan.sourceforge.net/), [SnpEff](https://pcingola.github.io/SnpEff/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), [Mutalyze](https://mutalyzer.nl/), [VariantValidator](https://variantvalidator.org/), [Ensembl VEP](https://asia.ensembl.org/info/docs/tools/vep/index.html) ) <br/>
+- Micro Array data analysis ([GEO] (https://www.ncbi.nlm.nih.gov/geo/), [ArrayExpress] (https://www.ebi.ac.uk/arrayexpress/),[limma/Bioconductor] (https://bioconductor.org/packages/release/bioc/html/limma.html)) <br/>
+- Genomic databases ([Rice Genome Annotation Project Database](http://rice.plantbiology.msu.edu/), [Ensembl](http://plants.ensembl.org/index.html)) <br/>
 - Phylogenetic Analysis ([MEGA X](https://www.megasoftware.net/)) <br/>
 - Molecular Docking ([AudoDock Vina](http://vina.scripps.edu/)) <br/>
 - Molecular Simulation ([GROMACS](https://www.gromacs.org/)) <br/>
