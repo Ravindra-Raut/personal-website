@@ -85,13 +85,13 @@ email: ""
 ### Skills ###
 **Programming** <br/>
 - Languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash Scripting](https://www.gnu.org/software/bash/), [Perl](https://www.perl.org/)) <br/>
-- Workflow management system ( [Nextflow] (https://www.nextflow.io/), [Galaxy] (https://usegalaxy.org/) ) <br/>
-- Containerisation tool ([Docker] (https://www.docker.com/)) <br/>
-- Cloud computing ([AWS] (https://aws.amazon.com/)) <br/>
+- Workflow management system ( [Nextflow](https://www.nextflow.io/), [Galaxy](https://usegalaxy.org/) ) <br/>
+- Containerisation tool ([Docker](https://www.docker.com/)) <br/>
+- Cloud computing ([AWS](https://aws.amazon.com/)) <br/>
 - Version control system  ([git](https://git-scm.com/), [GitHub](https://github.com/)) <br/>
 - Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
-- Document preparation system ([LATEX] (https://www.latex-project.org/), [RMarkdown] (https://rmarkdown.rstudio.com/index.html)) <br/>
-- Tools ([Rstudio](https://www.rstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/), [Visual Studio code](https://code.visualstudio.com/)) <br/>
+- Document preparation system ([LATEX](https://www.latex-project.org/), [RMarkdown](https://rmarkdown.rstudio.com/index.html)) <br/>
+- Tools ([AWS Cloud9](https://aws.amazon.com/cloud9/), [Rstudio](https://www.rstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/), [Visual Studio code](https://code.visualstudio.com/)) <br/>
 
 **Computational Biology** <br/>
 - Downstream sequence data analysis of ([illumina](https://sapac.illumina.com/), [Oxford Nanopore](https://nanoporetech.com/)) <br/>
