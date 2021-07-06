@@ -1,5 +1,4 @@
-<!-- Build Status -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eb9743e0-12bd-41ac-b8e9-0ffb7132265f/deploy-status)](https://app.netlify.com/sites/ravindra-raut2/deploys)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d46c184-deac-4e93-b974-99af790c5e92/deploy-status)](https://app.netlify.com/sites/ravindra-raut/deploys)
 
 # <!-- Main Repository language -->
 # [![Language](https://img.shields.io/badge/language-Shell-yellowgreen.svg)](https://img.shields.io/badge/language-JavaScript-brightgreen.svg)
