@@ -85,9 +85,9 @@ email: ""
 ### Skills ###
 **Programming** <br/>
 - Languages ([R](https://www.r-project.org/), [Python](https://www.python.org/), [Bash Scripting](https://www.gnu.org/software/bash/), [Perl](https://www.perl.org/)) <br/>
-- Workflow management system ( [Nextflow](https://www.nextflow.io/), [Galaxy](https://usegalaxy.org/) ) <br/>
+- Workflow management system ( [Nextflow](https://www.nextflow.io/), [Snakemake](https://snakemake.readthedocs.io/en/stable/)) <br/>
 - Containerisation tool ([Docker](https://www.docker.com/)) <br/>
-- Cloud computing ([AWS](https://aws.amazon.com/)) <br/>
+- Cloud computing ([AWS](https://aws.amazon.com/), [Galaxy](https://usegalaxy.org/)) <br/>
 - Version control system  ([git](https://git-scm.com/), [GitHub](https://github.com/)) <br/>
 - Data visualization ([ggplot2](https://ggplot2.tidyverse.org/), [Plotly](https://plotly.com/), [IGV](http://software.broadinstitute.org/software/igv/))<br/>
 - Document preparation system ([LATEX](https://www.latex-project.org/), [RMarkdown](https://rmarkdown.rstudio.com/index.html)) <br/>
